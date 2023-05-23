@@ -1,0 +1,6 @@
+Prêt-à-livrer :
+    Une requête qui rassemble les commandes prêtes à être livrées.
+
+Attribution-livraison :
+    Une requête qui donne à un livreur en attente de commande les commandes "Prêt-à-livrer" correspondant à sa zone.
+
